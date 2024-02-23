@@ -1,0 +1,10 @@
+#about {
+  text-align: justify;
+}
+
+#about p {
+  /* Optional: Add additional styling for the paragraph */
+  line-height: 1.6; /* Adjust line height for better readability */
+  max-width: 800px; /* Set a maximum width for the paragraph */
+  margin: 0 auto; /* Center the paragraph within its container */
+}
